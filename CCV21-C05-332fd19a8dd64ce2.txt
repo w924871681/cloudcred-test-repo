@@ -1,0 +1,3 @@
+# Non-authentic CloudCred test only
+CLOUDCRED_SAMPLE_ID=CCV21-C05-332fd19a8dd64ce2
+ordinary text; negative control
